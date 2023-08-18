@@ -1,0 +1,15 @@
+global using System.Threading.Tasks;
+global using iPractice.DataAccess;
+global using Microsoft.AspNetCore.Hosting;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.AspNetCore.Builder;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.OpenApi.Models;
+global using iPractice.Api.Models;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.Logging;
+global using System.Collections.Generic;
+global using System.Net;
+global using System;
